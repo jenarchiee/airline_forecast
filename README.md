@@ -3,5 +3,7 @@
 
 
 Estimated historical booking patterns from training data
+
 Developed advance booking models using additive, multiplicative, and combined methods
+
 Used Python to apply into validation data with an objective to minimize forecast errors
